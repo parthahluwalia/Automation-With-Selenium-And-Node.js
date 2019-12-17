@@ -1,5 +1,6 @@
 module.exports = {
     searchInputSelectorId: 'lst-ib',
     searchButtonSelectorName: 'btnK',
-    resultConfirmationId: 'resultStats'
+    resultConfirmationId: 'resultStats',
+    taHomePageWrapperClassName: 'homepage_wrapper'
 };
